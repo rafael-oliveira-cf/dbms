@@ -1,0 +1,17 @@
+.navigation {
+    width: 100%;        
+    padding: 0.3rem 0rem;
+    background-color: #fff;
+    color: black;
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+}
+
+.navigation-menu ul {
+    padding: 0;
+}
+
+.navigation-menu li {
+    margin-left: 10px;
+    list-style-type: none;
+    display: inline-block;
+}
